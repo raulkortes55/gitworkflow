@@ -1,1 +1,2 @@
 First File from github itself
+this text added on small comp
